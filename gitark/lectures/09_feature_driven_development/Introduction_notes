@@ -1,0 +1,18 @@
+Q1:	When is emergent architecture better than planned design, and vice-versa?
+
+	https://mikemacd.wordpress.com/2013/02/04/intentional-vs-emergent-architecture/
+	
+	Emergent architecture is good for when you have a small team, known technology and problem domain, low integration or alignment requirements etc.
+
+	Planned design - Large team, requirement for re-use, many integration or alignment requirements, external governance requirements etc.
+
+	Emergent architecture is best when you are relatively safe and you know what you're doing, though if you're unsure of the solution it can be better to start with this, at least initially.
+
+
+Q2:	What are the dangers when a customer isn't on site during development, and how can they be avoided/mitigated?
+
+	
+Q3: How do we track progress in an agile project?
+	
+
+Q4: How important is collective code ownership?

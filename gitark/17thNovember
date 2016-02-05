@@ -1,0 +1,23 @@
+CRACK customer
+Team must be self-organising. Team is set task and co-ordinates self. Regular contact points. Planning discussions.
+Common scrum themes
+	WOrking increnmentally. Split work into chunks and definitely return something of value at the end of the sprint. Something was wrong
+otherwise. 
+	Work iteratively. We like to get stuck in and keep developing. SHouldn't do that. 
+	Work beyond specialty - Teamwork, sharing skills. T shaped developer.
+
+If someone is very specialised and not good at other things, maybe they aren't suited for that type of work. Team must be chosen properly.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+Simple != simplistic
+
+BDUF & LDUF/EDUF
+
+SImplistic suggests not fit for purpose. Keep grounded. Only do work for this week, not next. Next week might change. 
+If you KNOW you'll need something definitely, like a DB rather than using a flat file, it's the team's choice. If it's easier to do now rather
+than later, you probably should do it. 
+Ordering design steps - Mike Cohn suggests system for ordering shirts. CReates a bunch of stories, select priorities etc? Panopto. 
+Would you use agile for safety critical piece? (I think no). If hardware needs to be linked to there are complications. 
+TDD is great for safety critical systems. Makes sure code /always/ works. But how can you assess design definitely works?
+Concern that first couple releases aren't as stable as they should be.
+DoneDone != bug-free Helps find bugs.

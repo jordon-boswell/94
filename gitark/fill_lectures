@@ -1,0 +1,5 @@
+#!/bin/bash
+for i in `seq 1 13`;
+do	
+	rmdir $i
+done
